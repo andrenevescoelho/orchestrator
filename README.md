@@ -24,8 +24,5 @@ Já aprimorei e fiz varios ajustes, irei postar essa nova versão em breve.
 
 Em um mundo com jenkins e outros tantos orquestradores tão robustos, muitas vezes você pode precisar de algo pratico para rodar pequenas aplicações.
 
-Vantagens
-
-**Por que usar esse orquestrador e não o agendador de tarefas do Windows?**
 
 
