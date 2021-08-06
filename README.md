@@ -11,7 +11,12 @@ Nele acrescente linhas como a do exemplo:
 
 Segundos Ligado/Desligado script
 
-10 1 path_executavel
+10[Segundos] 1[Ligado/Desligado] path_executavel
+
+No primeiro campo você coloca em segundos o tempo de execução da aplicação.
+
+No segundo campo você coloca 1 para ligado ou 0 para delsigado.
+
 
 Essa foi uma primeira vesão que escrevi em meados de 2014.
 
