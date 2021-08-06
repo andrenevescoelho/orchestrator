@@ -10,6 +10,7 @@ Faça download desse repositorio e abra o arquivo contrab.ini
 Nele acrescente linhas como a do exemplo:
 
 Segundos Ligado/Desligado script
+
 10 1 path_executavel
 
 Essa foi uma primeira vesão que escrevi em meados de 2014.
